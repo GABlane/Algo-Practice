@@ -1,3 +1,5 @@
-Algo.class
+# Ignore all compiled Java class files
+*.class
+
+# Ignore the old/scaffold Algo.java file
 Algo.java
-AlgorithComplexityTest.class
